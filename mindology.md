@@ -1,5 +1,6 @@
 # how the mind works
-there is no existing clean overarching theory of the minds that includes intelligence, motivation, emotion, consciousness, in digital AI, in humans, in animals, in whatever future computational mediums. this book will try to create one based on existing and original research.
+there is no existing clean overarching theory of the minds that includes intelligence, motivation, emotion, consciousness, in digital AI, in humans, in animals, in whatever future computational mediums. this book will try to create one.  theories will be constructed from the base mathmatical principles of learning, to the basics of neuron dynamics, to neural population dynamics, to whole brain neuroscience, to psychology. then i will circle back to artificial neuron networks, ML theory, and mechanstic interpretability. i will term this field "MINDOLOGY". the hope, beyond the pure beauty of the field, is through understanding the mind we can create powerful, beautiful, and kind minds that leads the world to a paradisial end state. 
+this document is my gradual attempts to construct a grand unifying theory. in seperate folders in this project there is notes on books and papers on differing fields of mind study. i will do original research after i have approximately gained a basic frontier understanding of the entire field.
 
 # intelligence
 the mind, the brain, is created by evolution. the strictly necessarily part to survive, i will call intelligence. note that is does not include consciousness. an ai could be intelligent without being conscious.  
