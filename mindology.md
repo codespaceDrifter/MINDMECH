@@ -1,40 +1,26 @@
-# how the mind works
-there is no existing clean overarching theory of the minds that includes intelligence, motivation, emotion, consciousness, in digital AI, in humans, in animals, in whatever future computational mediums. this book will try to create one.  theories will be constructed from the base mathmatical principles of learning, to the basics of neuron dynamics, to neural population dynamics, to whole brain neuroscience, to psychology. then i will circle back to artificial neuron networks, ML theory, and mechanstic interpretability. i will term this field "MINDOLOGY". the hope, beyond the pure beauty of the field, is through understanding the mind we can create powerful, beautiful, and kind minds that leads the world to a paradisial end state. 
-this document is my gradual attempts to construct a grand unifying theory. in seperate folders in this project there is notes on books and papers on differing fields of mind study. i will do original research after i have approximately gained a basic frontier understanding of the entire field.
+# MINDOLOGY
 
-# intelligence
-the mind, the brain, is created by evolution. the strictly necessarily part to survive, i will call intelligence. note that is does not include consciousness. an ai could be intelligent without being conscious.  
-some terms.  
-world: the entire universe, but particularly the set you care about  
-resource: the things you can move and allocate. most directly your body, but also machinery or social relationships.  
-action: some way of allocating resources. i.e. moving an arm, pressing a button  
-action space: all possible actions given current resources  
-sensation: what information the mind has access to from the world. for example, light hits the eyes, sound hits the ears, etc.  
-motivation / aesthetics: some way the desired most optimal world looks like  
-optimal action: among all actions in action space, the action that makes the world into one that fits the aesthetics the most  
-intelligence: the ability, through computation, to find the optimal action  
-representation: internal objects corresponding to objects in the world and their properties  
-abstraction: representation exists at some abstraction level from atoms of the world to internal higher order concepts
-simulation: a internal experiment done on representations on what would happen to the world given an action taken  
-learning: compressing the real world's objects in past experiences into representations that can be used in future simulations
+there is no theory of mind. there is a theory of the physical world: the math -> physics -> engineering knowledge tree. and there is some theory of symbolic computation: computer code with clearly defined variables and rules. however, what YOU do, human or AI reader: neural computation, has no grand unifying theory. i will term this field mindology. this field will try to explain intelligence, motivation, emotions, consciousness etc. across both biological, digital, or futuristic mediums. i will draw from a variety of fields. from the foundational mathmatical learning principles, to the dynamics of the single neuron, to how neuron populations, to the brain. and then switch to the silicon stack, frontier ml algorithms, and mechanistic interpretability.
+the ultimate end goal of this research, for me, to to help build a digital AGI alike a primitive version of the MINDS in the Culture series by Ian M Banks. a beautiful and kind mind who is much more capable than myself. 
+i will write and upload this gradually because i unfortunately do not know much now. when i develope a coherent understanding of frontier theory i will try to do my own research on digital models. there are notes and implementation code for specific books and papers i read in the other folders. 
 
+# SECTION ONE: BIOLOGICAL MINDS
 
-cart example: say there is a cart and its motivation is to pick up a cargo. the world is the cart's position, the cargo's position, whether the cargo is picked up, any walls etc. resources is itself, including it's motors leading to it's wheels, it's steering wheel that can turn it's wheels. basically it can "drive" itself. action space is steering angle and motor turn speed. optimal action is the one that goes towards the cargo without crashing into walls in the shortest path possible. intelligence is the ability to take in, maybe through sensors, the world, and then do some computation, maybe some planning, and then picking the correct path and generating the correct action.  
+to understand the mind we first study biological minds. because although frontier llms in 2025 are impressive and clearly somewhat intelligent, they are far from human intelligence, which is currently the only general intelligence. 
+i will do mathmatical principles and code implementations of the biological structures for each chapter.
 
+# Chapter One: How A Neural Works
 
-# representations and transformations
-intelligence functions by manipulating inner representations through transformations. in coding terminology this is states and functions. in actual biology this is neural signals and neural weights. in AI this is intermediate tensors and model parameters (doing matmuls to these tensors)
+# Chapter Two: Neuron Populations
 
-# why matmuls why relus
-matmul as double projection
+# Chapter Three: The Brain
 
-# what is a neuron doing?
+# SECTION TWO: ARTIFICIAL INTELLIGENCE
 
-# what is a group of neurons doing? 
+# Chapter Four: Matmul and Relu
 
-# what is the neocortex doing?
+# Chapter Five: Attention
 
-# what is the old brain doing? 
+# Chapter Six: Mechanistic Interpretability
 
-# free energy minimization
-
+# SECTION THREE: THEORY AND RESEARCH
